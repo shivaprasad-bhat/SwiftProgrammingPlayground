@@ -6,5 +6,6 @@
         <page name='IfStatements'/>
         <page name='SwitchStatement'/>
         <page name='Loops'/>
+        <page name='Functions'/>
     </pages>
 </playground>
