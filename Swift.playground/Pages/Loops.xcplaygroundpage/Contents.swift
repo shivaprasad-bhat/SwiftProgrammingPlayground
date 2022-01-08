@@ -32,5 +32,5 @@ counter = 5
 repeat {
     print("RWL - Greater than 0")
     counter -= 1
-}while(counter > 0)
+} while(counter > 0)
 
