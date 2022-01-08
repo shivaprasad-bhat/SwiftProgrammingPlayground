@@ -4,5 +4,6 @@
         <page name='Variables'/>
         <page name='DataTypes'/>
         <page name='IfStatements'/>
+        <page name='SwitchStatement'/>
     </pages>
 </playground>
