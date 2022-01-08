@@ -16,5 +16,7 @@ var doub: Double = 22.112
 var chr: Character = "a"
 let bo: Bool = true
 var integ: Int = 1
+var roundInt: Int = Int(round(doub))
+let convStr: String = String(flt)
 
-print(str, flt, doub, chr, bo, integ)
+print(str, flt, doub, chr, bo, integ, roundInt, convStr)

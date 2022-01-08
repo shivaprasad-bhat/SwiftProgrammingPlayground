@@ -3,5 +3,6 @@
     <pages>
         <page name='Variables'/>
         <page name='DataTypes'/>
+        <page name='IfStatements'/>
     </pages>
 </playground>
